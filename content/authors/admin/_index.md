@@ -67,8 +67,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a Passionate Engineer graduated from Concordia university. A Self-taught programmer and game developer with a good expertise of object oriented programming, testing and debugging. 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Passionate Engineer graduated from Concordia university. A Self-taught programmer and game developer with a good expertise of object oriented programming, testing and debugging.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
