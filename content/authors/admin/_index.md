@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MEng in Mechanical Engineering (Maj: Industrial control systems)
+  - course: MEng in Mechanical Engineering (Major - Industrial control systems)
     institution: Concordia University
     year: 2018
   - course: B.Tech in Mechanical Engineering
