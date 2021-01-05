@@ -35,7 +35,6 @@ experience:
         * Developed, tested and debugged key features of the display systems.
         * Experienced in developing Display UI using SCADE and integration system between Display UI and SFMS. 
         * Experienced in developing test scripts for the Platform software.
-        
   - title: Freelancing
     company: Self
     company_url: 'https://github.com/jayanthkratos'
@@ -43,7 +42,7 @@ experience:
     date_start: '2018-01-01'
     date_end: ''
     description: |2-
-         Gaming:
+       Gaming:
          
          * Developed multiple PC based games using Unity and buildbox.
       
