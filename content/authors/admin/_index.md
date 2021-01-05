@@ -11,16 +11,16 @@ role: Software designer
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: CMC electronics
-  url: https://www.stanford.edu/
+  url: https://cmcelectronics.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include Game development, Machine learning, AI in games and Embedded software development.
 
 # Interests to show in About widget
 interests:
+- C++ developement
 - Game developement
 - Artificial Intelligence
-- C++ developement
 
 # Education to show in About widget
 education:
@@ -40,18 +40,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jayanthkratos
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/jayanthparuchuri/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
