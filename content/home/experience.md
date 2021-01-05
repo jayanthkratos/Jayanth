@@ -35,6 +35,7 @@ experience:
         * Developed, tested and debugged key features of the display systems.
         * Experienced in developing Display UI using SCADE and integration system between Display UI and SFMS. 
         * Experienced in developing test scripts for the Platform software.
+        
   - title: Freelancing
     company: Self
     company_url: 'https://github.com/jayanthkratos'
@@ -44,11 +45,8 @@ experience:
     description: |2-
        Gaming:
          
-         * Developed multiple PC based games using Unity and buildbox.
-      
-       Embedded systems:
-      
-          * Developed a network using RF modules to communicate between a workstation and multiple robots and integrated those to a simulation platform for control
+        * Developed multiple PC based games using Unity and buildbox.
+        * Developed a network using RF modules to communicate between a workstation and multiple robots and integrated those to a simulation platform for control
      
   - title: Research Volunteer
     company: Technology Sandbox (Concordia University)
